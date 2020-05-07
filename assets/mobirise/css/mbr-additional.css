@@ -960,7 +960,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 1024px) {
   .cid-rXtz0jZvmp .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.9rem);
+    max-height: calc(98.5vh - 5.8rem);
   }
 }
 .cid-rXtz0jZvmp .collapsed button.navbar-toggler {
@@ -1119,11 +1119,16 @@ section.lazy-placeholder:after {
   color: #ff7f9f !important;
 }
 .cid-rXtyTmQZQd {
+  padding-top: 120px;
+  padding-bottom: 120px;
   background-image: url("../../../assets/images/rodillos-361x360.png");
 }
 .cid-rXtyTmQZQd .mbr-text,
 .cid-rXtyTmQZQd .mbr-section-btn {
   text-align: right;
+}
+.cid-rXtyTmQZQd H1 {
+  text-align: center;
 }
 .cid-rXtzkc0SzX {
   padding-top: 30px;
@@ -1206,9 +1211,9 @@ section.lazy-placeholder:after {
   text-align: center;
 }
 .cid-rYe1ikUQKr {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
+  padding-top: 45px;
+  padding-bottom: 30px;
+  background-color: #cccccc;
 }
 .cid-rYe1ikUQKr .title {
   margin-bottom: 2rem;
@@ -1225,6 +1230,73 @@ section.lazy-placeholder:after {
 }
 .cid-rYe1ikUQKr textarea.form-control {
   min-height: 188px;
+}
+.cid-rYk8dN1Lj5 {
+  padding-top: 60px;
+  padding-bottom: 15px;
+  background-color: #232323;
+}
+@media (max-width: 767px) {
+  .cid-rYk8dN1Lj5 .content {
+    text-align: center;
+  }
+  .cid-rYk8dN1Lj5 .content > div:not(:last-child) {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rYk8dN1Lj5 .media-wrap {
+    margin-bottom: 1rem;
+  }
+}
+.cid-rYk8dN1Lj5 .media-wrap .mbr-iconfont-logo {
+  font-size: 7.5rem;
+  color: #f36;
+}
+.cid-rYk8dN1Lj5 .media-wrap img {
+  height: 6rem;
+}
+@media (max-width: 767px) {
+  .cid-rYk8dN1Lj5 .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-rYk8dN1Lj5 .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #fff;
+  opacity: .05;
+}
+.cid-rYk8dN1Lj5 .footer-lower .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  -webkit-justify-content: flex-end;
+}
+.cid-rYk8dN1Lj5 .footer-lower .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #fff;
+}
+.cid-rYk8dN1Lj5 .footer-lower .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-rYk8dN1Lj5 .footer-lower .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-rYk8dN1Lj5 .footer-lower .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-rYk8dN1Lj5 .footer-lower .social-list {
+    justify-content: center;
+    -webkit-justify-content: center;
+  }
 }
 .cid-rYanWPCc4h .navbar {
   padding: .5rem 0;
@@ -1476,7 +1548,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 1024px) {
   .cid-rYanWPCc4h .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.9rem);
+    max-height: calc(98.5vh - 5.8rem);
   }
 }
 .cid-rYanWPCc4h .collapsed button.navbar-toggler {
@@ -1637,7 +1709,7 @@ section.lazy-placeholder:after {
 .cid-rYeAG7b4RR {
   padding-top: 90px;
   padding-bottom: 75px;
-  background-image: url("../../../assets/images/background423.jpg");
+  background-image: url("../../../assets/images/background45.jpg");
 }
 .cid-rYeAJ3258C {
   padding-top: 60px;
@@ -1898,7 +1970,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 1024px) {
   .cid-rXtz0jZvmp .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.9rem);
+    max-height: calc(98.5vh - 5.8rem);
   }
 }
 .cid-rXtz0jZvmp .collapsed button.navbar-toggler {
@@ -2059,7 +2131,7 @@ section.lazy-placeholder:after {
 .cid-rYdyiPNtdJ {
   padding-top: 90px;
   padding-bottom: 90px;
-  background: linear-gradient(45deg, #55b4d4, #073b4c);
+  background-image: url("../../../assets/images/cilindros-industriales-para-moliendas-1-1890x862.jpeg");
 }
 .cid-rYg7muxtBB {
   padding-top: 90px;
@@ -2178,7 +2250,7 @@ section.lazy-placeholder:after {
 .cid-rYapw9GMbn {
   padding-top: 90px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/background423.jpg");
+  background-image: url("../../../assets/images/background45.jpg");
 }
 .cid-rYapw9GMbn .title {
   margin-bottom: 2rem;
@@ -2446,7 +2518,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 1024px) {
   .cid-rXtz0jZvmp .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.9rem);
+    max-height: calc(98.5vh - 5.8rem);
   }
 }
 .cid-rXtz0jZvmp .collapsed button.navbar-toggler {
@@ -2607,7 +2679,7 @@ section.lazy-placeholder:after {
 .cid-rXujWnh75S {
   padding-top: 75px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/background423.jpg");
+  background-image: url("../../../assets/images/background45.jpg");
 }
 .cid-rYdAURZILJ {
   padding-top: 90px;
@@ -2670,7 +2742,7 @@ section.lazy-placeholder:after {
 .cid-rYdBQ5H5OS {
   padding-top: 60px;
   padding-bottom: 45px;
-  background-image: url("../../../assets/images/background423.jpg");
+  background-image: url("../../../assets/images/background45.jpg");
 }
 .cid-rYdBOc6OGe {
   padding-top: 90px;
@@ -2695,7 +2767,7 @@ section.lazy-placeholder:after {
 .cid-rYeexoWGmM {
   padding-top: 60px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/background423.jpg");
+  background-image: url("../../../assets/images/background45.jpg");
 }
 .cid-rYg5gdpVel {
   padding-top: 90px;
@@ -2768,7 +2840,7 @@ section.lazy-placeholder:after {
 .cid-rYegAc2yiM {
   padding-top: 60px;
   padding-bottom: 15px;
-  background-image: url("../../../assets/images/background423.jpg");
+  background-image: url("../../../assets/images/background45.jpg");
 }
 .cid-rYegwveRZu {
   padding-top: 60px;
